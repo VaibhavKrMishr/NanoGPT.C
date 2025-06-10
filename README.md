@@ -1,6 +1,6 @@
 # NanoGPT.C
 
-**NanoGPT.C** is a minimal GPT-style transformer written in **pure C** — designed to help you understand the internals of language models and sharpen your systems programming skills.
+**NanoGPT.C** is a minimal GPT-style transformer written in **pure C**.
 
 ## 🧠 Project Goal
 
